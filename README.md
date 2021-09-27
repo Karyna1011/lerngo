@@ -1,0 +1,2 @@
+# lerngo
+learning go
