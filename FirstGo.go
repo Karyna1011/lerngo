@@ -10,20 +10,20 @@ import (
 	"strings"
 	"math")
 
-type items struct {
-	items2 map[string]string{
-	"id": "max_contracts_count",
-	"type": "key-value-entries"
-}
+//type items struct {
+//	items2 map[string]string{
+//	"id": "max_contracts_count",
+//	"type": "key-value-entries"
+//}
 
-}
-type mydata struct {
-	data map[string] items {
-		"data":
-}
+//}
+//type mydata struct {
+//	data map[string] items {
+//		"data":
+//}
 
 
-type DataArray []mydata
+//type DataArray []mydata
 
 var perPage =3
 
